@@ -1,2 +1,2 @@
 # nodejs-day3
-day 2 node js codes
+day 3 node js codes
